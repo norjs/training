@@ -1,8 +1,8 @@
 {% include header.html %}
 
-Training site testing.
+### Index
 
-### Test
+Training site testing.
 
 * [Test page](test.md)
 
