@@ -3,3 +3,4 @@ show_downloads: false
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+seo: {{ feed_meta }}
