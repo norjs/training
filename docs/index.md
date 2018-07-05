@@ -15,9 +15,9 @@ programming on this site. Focus will be on HTML5 web development -- anything
 you might need to work for [NorJS project](http://www.norjs.com).
 
 Because of that I will use the application stack I commonly use, and which is 
-compatible with my architecture choises. After all, the point of this site is 
-to offer solid and consistent path to learn programming. You can use other 
-sources available on the Internet to learn stuff outside of this path.
+compatible with my idea of a good architecture. After all, the point of this 
+site is to offer solid and consistent path to learn programming. You can use 
+other sources available on the Internet to learn stuff outside of this path.
 
 I will start from the beginner level and move up to more advanced stuff later.
 
