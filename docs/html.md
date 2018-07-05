@@ -1,5 +1,7 @@
-{% include header.html %}
+---
+layout: page
+title: "Blog"
+---
 
 ### HTML
 
-{% include footer.html %}

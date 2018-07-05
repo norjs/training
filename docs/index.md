@@ -1,6 +1,9 @@
-{% include header.html %}
+---
+layout: page
+title: "Learn programming"
+---
 
-### Index
+### Learn programming
 
 Internet is full of different sources to learn programming. However for a 
 beginner it can be overwhelming to find where to start, figure out which 
@@ -23,4 +26,3 @@ issues](https://github.com/norjs/training/issues).
 
 I will publish what I have done at [the blog](/blog.html).
 
-{% include footer.html %}

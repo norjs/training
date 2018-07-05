@@ -1,5 +1,7 @@
-{% include header.html %}
+---
+layout: page
+title: "AngularJS"
+---
 
 ### AngularJS
 
-{% include footer.html %}

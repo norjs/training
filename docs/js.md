@@ -1,5 +1,6 @@
-{% include header.html %}
+---
+layout: page
+title: "Learn JS"
+---
 
 ### JavaScript
-
-{% include footer.html %}

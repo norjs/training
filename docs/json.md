@@ -1,5 +1,7 @@
-{% include header.html %}
+---
+layout: page
+title: "Learn JS"
+---
 
 ### JSON
 
-{% include footer.html %}

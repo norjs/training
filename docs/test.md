@@ -1,7 +1,8 @@
-{% include header.html %}
+---
+layout: page
+title: "Learn JS"
+---
 
 ### Test
 
 Testing sub page
-
-{% include footer.html %}
