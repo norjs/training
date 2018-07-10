@@ -3,8 +3,6 @@ layout: javascript-page
 title: "Variables - JavaScript"
 ---
 
-**Note!** This document is a draft, and not published yet.
-
 ### Variables
 
 Any variable has a type, a name and a value.

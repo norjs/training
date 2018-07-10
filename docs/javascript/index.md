@@ -3,8 +3,6 @@ layout: javascript-page
 title: "JavaScript"
 ---
 
-**Note!** This document is a draft, and not published yet.
-
 ### JavaScript
 
 JavaScript is a popular dynamic programming language. It was originally 
@@ -12,13 +10,24 @@ developed for web browsers, but today it can be used in many other environments
 like web servers, database servers, native applications, mobile devices, PDF 
 files, SVG images, inside Google documents (eg. Spreadsheets), etc.
 
-Latest standard goes with a name ECMAScript, and this project will actually 
+Latest standard goes with the name ECMAScript, and this site will actually 
 teach ECMAScript version 6.
 
-There are generally only two types of things in JavaScript language: variables 
-and operators. Even functions can be though of as a variable.
+There are generally only two types of essential features in JavaScript language 
+which actually make things work. These are [variables](variables) and 
+[operators](operators). Even functions can be though of as a variable. Of 
+course, there is also [comments](comments), etc.
 
-* [Variables](./variables.md)
-* [Functions](./functions.md)
-* [Classes](./classes.md)
-* [Symbols](./symbols.md)
+* [Variables](variables)
+* [Operators](operators)
+* [Functions](functions)
+* [Classes](classes)
+* [Symbols](symbols)
+* [Comments](comments)
+
+[variables]: ./variables.md
+[classes]: ./classes.md
+[operators]: ./operators.md
+[functions]: ./functions.md
+[symbols]: ./symbols.md
+[comments]: ./comments.md

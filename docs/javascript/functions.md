@@ -3,8 +3,6 @@ layout: javascript-page
 title: "Functions - JavaScript"
 ---
 
-**Note!** This document is a draft, and not published yet.
-
 ### Functions and methods
 
 A *function* is a set of commands which take optional input variables and output 
@@ -12,11 +10,12 @@ an optional result value. Functions can also change state or make other things
 happen (usually by calling other functions).
 
 A *method* in JavaScript is just a function which is part of an object. The 
-owning object can be accessed using special variable named `this`.
+owning object can be accessed using special variable named `this`. More about
+ methods can be read from [classes](classes).
 
 #### Build in functions
 
-The standard has few built in functions. Those functions are mostly for 
+The standard has few built in functions which are mostly for 
 manipulating and working with variables.
 
 However most of the functions actually used to make real things happen are not 
@@ -95,3 +94,11 @@ f.foo = 123;
 
 f();
 ```
+
+
+[variables]: ./variables.md
+[classes]: ./classes.md
+[operators]: ./operators.md
+[functions]: ./functions.md
+[symbols]: ./symbols.md
+[comments]: ./comments.md
