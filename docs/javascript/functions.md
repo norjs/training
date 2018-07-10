@@ -1,7 +1,7 @@
 ---
 layout: javascript-page
 title: "Functions - JavaScript"
-permalink: /javascript/
+permalink: /javascript/functions
 ---
 
 ### Functions and methods

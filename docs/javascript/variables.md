@@ -1,6 +1,7 @@
 ---
 layout: javascript-page
 title: "Variables - JavaScript"
+permalink: /javascript/variables
 ---
 
 ### Variables
