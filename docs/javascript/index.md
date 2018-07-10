@@ -15,14 +15,14 @@ Latest standard goes with the name ECMAScript, and this site will
 actually teach [ECMAScript version 6](http://es6-features.org/).
 
 There are generally only two types of essential features in JavaScript language 
-which actually make things work. These are [variables](./variables) and 
-[operators](./operators). Even functions can be though of as a variable. Of 
-course, there is also [comments](./comments), etc.
+which actually make things work. These are [variables](./variables.md) and 
+[operators](./operators.md). Even functions can be though of as a variable. Of 
+course, there is also [comments](./comments.md), etc.
 
-* [Variables](./variables)
-* [Operators](./operators)
-* [Functions](./functions)
-* [Classes](./classes)
-* [Symbols](./symbols)
-* [Comments](./comments)
-* [Modules](./modules)
+* [Variables](./variables.md)
+* [Operators](./operators.md)
+* [Functions](./functions.md)
+* [Classes](./classes.md)
+* [Symbols](./symbols.md)
+* [Comments](./comments.md)
+* [Modules](./modules.md)

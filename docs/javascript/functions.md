@@ -12,7 +12,7 @@ happen (usually by calling other functions).
 
 A *method* in JavaScript is just a function which is part of an object. The 
 owning object can be accessed using special variable named `this`. More about
- methods can be read from [classes](./classes).
+ methods can be read from [classes](./classes.md).
 
 #### Build in functions
 
