@@ -25,4 +25,4 @@ course, there is also [comments](./comments), etc.
 * [Classes](./classes)
 * [Symbols](./symbols)
 * [Comments](./comments)
-* [modules](./modules)
+* [Modules](./modules)
