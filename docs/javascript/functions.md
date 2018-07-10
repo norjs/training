@@ -1,6 +1,7 @@
 ---
 layout: javascript-page
 title: "Functions - JavaScript"
+permalink: /javascript/
 ---
 
 ### Functions and methods
@@ -11,7 +12,7 @@ happen (usually by calling other functions).
 
 A *method* in JavaScript is just a function which is part of an object. The 
 owning object can be accessed using special variable named `this`. More about
- methods can be read from [classes](classes).
+ methods can be read from [classes](./classes).
 
 #### Build in functions
 
@@ -94,11 +95,3 @@ f.foo = 123;
 
 f();
 ```
-
-
-[variables]: ./variables.md
-[classes]: ./classes.md
-[operators]: ./operators.md
-[functions]: ./functions.md
-[symbols]: ./symbols.md
-[comments]: ./comments.md
