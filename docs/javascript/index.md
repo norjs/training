@@ -19,6 +19,7 @@ which actually make things work. These are [variables](./variables.md) and
 [operators](./operators.md). Even functions can be though of as a variable. Of 
 course, there is also [comments](./comments.md), etc.
 
+* [Statements](./statements.md)
 * [Variables](./variables.md)
 * [Operators](./operators.md)
 * [Functions](./functions.md)
