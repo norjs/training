@@ -9,16 +9,24 @@ permalink: /javascript/booleans
 A *boolean* is a variable type which has two states `true` and `false`.
 
 ```javascript
-let foo = false;
+let enabled = false;
 
-if (foo) {
+if (enabled) {
 	// This code will not be executed
 }
 
-foo = true;
+enabled = true;
 
-if (foo) {
+if (enabled) {
 	// This code will be executed
+}
+```
+
+The value of a boolean variable can be toggled with `!`-operator:
+
+```javascript
+if (!enabled) {
+	// This code will not be executed when enabled is true
 }
 ```
 
