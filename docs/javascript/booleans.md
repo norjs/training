@@ -33,5 +33,4 @@ if (!enabled) {
 ### References
 
  * [Primitives](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
- * [Boolean object wrapper](https://developer.mozilla
- .org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+ * [Boolean object wrapper](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
