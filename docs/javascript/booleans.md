@@ -4,10 +4,9 @@ title: "Booleans - Variables - JavaScript"
 permalink: /javascript/booleans
 ---
 
-### Booleans
+### Booleans in JavaScript
 
-A *boolean* variable in JavaScript is a primitive type which has only two 
-states `true` and `false`.
+A *boolean* is a variable type which has two states `true` and `false`.
 
 ```javascript
 let foo = false;
